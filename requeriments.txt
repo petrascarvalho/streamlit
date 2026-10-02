@@ -1,0 +1,9 @@
+# Dependências do painel. Instalação:
+#   python -m venv .venv
+#   .\.venv\Scripts\Activate.ps1
+#   pip install -r requeriments.txt
+# Execução:
+#   streamlit run app.py
+streamlit>=1.64
+pandas>=3.0
+plotly>=7.1
